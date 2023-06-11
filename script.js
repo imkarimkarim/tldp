@@ -34,6 +34,7 @@ const gateways = [
     'pas.shaparak.ir',
     'sepehr.shaparak.ir',
     'say.shaparak.ir',
+    'sayan.shaparak.ir',
 ];
 
 const companies = [
@@ -53,6 +54,7 @@ const companies = [
     'الکترونیک کارت دماوند',
     'سایان کارت',
     'پرداخت الکترونیک سپهر',
+    'سایان کارت',
     'سایان کارت',
 ];
 
