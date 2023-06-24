@@ -16,4 +16,4 @@ npm run dev # pnpm dev / yarn dev
 ## Contribution
 
 contributions are welcomed 🌻
-but please be aware the plan is to keep the [cloc](https://github.com/AlDanial/cloc) sum around 200 line for the sake of simplicity and the philosopy of the project
+but please be aware the plan is to keep the [cloc](https://github.com/AlDanial/cloc) sum around 300 line for the sake of simplicity and the philosopy of the project
